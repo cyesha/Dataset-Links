@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Diabetes Dataset</title>
+</head>
+<body>
+	<h1>Diabetes Dataset</h1>
+	<p>Kaggle Link: <a href="https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset">https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset</a></p>
+	<p>Download: <a href="https://www.kaggle.com/akshaydattatraykhare/diabetes-dataset/download">https://www.kaggle.com/akshaydattatraykhare/diabetes-dataset/download</a></p>
+	<p>About the Dataset (see more details on Kaggle)<br>
+	This dataset is originally from the National Institute of Diabetes and Digestive and Kidney Diseases. The objective of the dataset is to diagnostically predict whether a patient has diabetes, based on certain diagnostic measurements included in the dataset. Several constraints were placed on the selection of these instances from a larger database. In particular, all patients here are females at least 21 years old of Pima Indian heritage.<br>
+	From the data set in the (.csv) File We can find several variables, some of them are independent (several medical predictor variables) and only one target dependent variable (Outcome).</p>
+
+	<table>
+		<caption>Dataset Attributes:</caption>
+		<thead>
+			<tr>
+				<th>Attribute</th>
+				<th>Description</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>Pregnancies</td>
+				<td>Number of pregnancies</td>
+			</tr>
+			<tr>
+				<td>Glucose</td>
+				<td>Glucose level in blood</td>
+			</tr>
+			<tr>
+				<td>BloodPressure</td>
+				<td>Blood pressure measurement</td>
+			</tr>
+			<tr>
+				<td>SkinThickness</td>
+				<td>Thickness of the skin</td>
+			</tr>
+			<tr>
+				<td>Insulin</td>
+				<td>Insulin level in blood</td>
+			</tr>
+			<tr>
+				<td>BMI</td>
+				<td>Body mass index</td>
+			</tr>
+			<tr>
+				<td>DiabetesPedigreeFunction</td>
+				<td>Diabetes percentage</td>
+			</tr>
+			<tr>
+				<td>Age</td>
+				<td>Age</td>
+			</tr>
+			<tr>
+				<td>Outcome</td>
+				<td>Final result (1 = Yes, 0 = No)</td>
+			</tr>
+		</tbody>
+	</table>
+
+	<p><strong>Disclaimer: </strong>I do not take credit for any of the datasets provided. The datasets are the property of their respective owners, and I am only providing access to the datasets for research and educational purposes. Any use of the datasets should comply with the terms and conditions set by the dataset owners.</p>
+</body>
+</html>
